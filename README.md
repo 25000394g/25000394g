@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+---
+> I don't like work--no man does--but I like what is in the work--the chance to find yourself. Your own reality--for yourself not for others--what no other man can ever know. They can only see the mere show, and never can tell what it really means.
+
+-  Joseph Conrad, Heart of Darkness 
+
 <!--
 **25000394g/25000394g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
